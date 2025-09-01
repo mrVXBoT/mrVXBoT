@@ -1,33 +1,33 @@
-<!-- هدر جذاب با موج‌های SVG -->
+<!-- Fancy header with SVG waves -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=170&section=header&text=Welcome%20to%20my%20GitHub%20✨&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-<!-- تایپ انیمیشنی معرفی -->
+<!-- Animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36BCF7&center=true&vCenter=true&width=800&lines=%D8%B3%D9%84%D8%A7%D9%85!+%D8%AE%D9%88%D8%B4+%D8%A7%D9%88%D9%85%D8%DF%DB%8C+%D8%A8%D9%87+%D8%B1%DB%8C%D9%BE%D9%88%DB%8C+%D9%85%D9%86;%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%DF%D9%87+%D9%88%D8%A8%2C+%D8%B9%D8%A7%D8%B4%D9%82+Automation+%26+Open+Source;%D8%AA%D9%85%D8%B1%DA%A9%D8%B2+%D8%B1%D9%88%DB%8C%3A+Python%2C+React%2C+Node.js%2C+Next.js%2C+Laravel%2FPHP%2C+Linux%2C+SSH%2C+Git" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi!+Welcome+to+my+repo;Web+developer,+into+Automation+%26+Open+Source;Focus:+Python,+React,+Node.js,+Next.js,+Laravel%2FPHP,+Linux,+SSH,+Git" alt="Typing SVG"/>
 </p>
 
-<!-- بج‌های وضعیت -->
+<!-- Status badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrVXBoT&style=flat-square&color=7F00FF" alt="views"/>
   <img src="https://img.shields.io/github/followers/mrVXBoT?label=Followers&style=flat-square&color=36BCF7" alt="followers"/>
   <img src="https://img.shields.io/github/stars/mrVXBoT?affiliations=OWNER&style=flat-square&color=00D8FF" alt="stars"/>
 </p>
 
-<!-- آیکون مهارت‌ها -->
+<!-- Skill icons -->
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=python,react,html,css,js,nodejs,next,laravel,php,linux,bash,git&perline=6)](https://skillicons.dev)
 
 </div>
 
-## درباره من
-- توسعه‌دهنده وب با تمرکز روی ساخت محصولات تمیز، مقیاس‌پذیر و قابل نگهداری.
-- استک‌های اصلی: Python، React، HTML/CSS/JS، Node.js، Next.js، Laravel/PHP، Linux، SSH و Git.
-- نکته مهم: با C++ و Java کار نمی‌کنم.
+## About Me
+- I build clean, scalable, and maintainable web products.
+- Primary stack: Python, React, HTML/CSS/JS, Node.js, Next.js, Laravel/PHP, Linux, SSH, Git.
+- Note: I do not work with C++ or Java.
 
-## مهارت‌ها و تکنولوژی‌ها
+## Skills & Technologies
 - Frontend: React, Next.js, HTML5, CSS3, JavaScript (ES6+)
 - Backend: Node.js (Express), Laravel (PHP)
 - Scripting & Automation: Python
@@ -35,26 +35,26 @@
 - Version Control: Git (GitHub/GitLab)
 
 <details>
-  <summary>جزئیات بیشتر (کلیک کن)</summary>
+  <summary>More details (click)</summary>
 
-  - React/Next: SSR, SSG, ISR، مدیریت State، بهینه‌سازی Performance.
-  - Node/Laravel: طراحی APIهای RESTful، Middleware، Auth، معماری Clean.
-  - Python: ابزارهای CLI، اتوماسیون DevOps، اسکریپت‌های کارآمد.
-  - Linux/SSH: مدیریت سرور، اسکریپت‌های Bash، دیپلوی امن و سریع.
-  - Git: فلوهای حرفه‌ای (Feature Branch, PR, Code Review) و CI/CD.
+  - React/Next: SSR, SSG, ISR, state management, performance optimization.
+  - Node/Laravel: RESTful APIs, middleware, auth, clean architecture.
+  - Python: CLI tools, DevOps automation, efficient scripting.
+  - Linux/SSH: server management, bash scripts, secure deployments.
+  - Git: professional workflows (feature branching, PRs, code review) and CI/CD.
 </details>
 
-## رویکرد کاری من
-- طراحی ماژولار و کد تمیز با تست‌پذیری بالا.
-- مستندسازی شفاف و خودکارسازی تسک‌های تکراری.
-- تمرکز روی امنیت، عملکرد و تجربه کاربری.
+## My Approach
+- Modular design and clean code with high testability.
+- Clear documentation and automation of repetitive tasks.
+- Focus on security, performance, and user experience.
 
-## چیزی که می‌سازم
-- وب‌اپ‌های سریع با UX عالی و معماری مقیاس‌پذیر.
-- APIهای تمیز و مستند برای توسعه و نگهداری راحت.
-- اسکریپت‌ها و اتوماسیون‌هایی که زمان توسعه و دیپلوی را کاهش می‌دهند.
+## What I Build
+- Fast web apps with great UX and scalable architecture.
+- Clean, well-documented APIs for easy development and maintenance.
+- Scripts and automation that reduce development and deployment time.
 
-## آمار و فعالیت گیت‌هاب
+## GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrVXBoT&show_icons=true&theme=tokyonight" height="165" alt="stats"/>
   <img src="https://streak-stats.demolab.com?user=mrVXBoT&theme=tokyonight" height="165" alt="streak"/>
@@ -66,10 +66,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrVXBoT&theme=tokyo-night" alt="activity graph"/>
 </p>
 
-## شروع سریع (Quick Start)
-- این ریپو ممکنه شامل نمونه‌کدها، Snippetها و کانفیگ‌های مفید باشه. پوشه‌ها و فایل‌ها رو ببین و هرجا توضیح لازم بود Issue باز کن.
+## Quick Start
+- This repo may include example code, snippets, and useful configs. Explore folders and files and open an Issue if you need more info.
 
-## ارتباط با من
+## Contact
 <p align="center">
   <a href="https://github.com/mrVXBoT" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -79,10 +79,10 @@
   </a>
 </p>
 
-## همکاری
-- اگر ایده‌ای داری یا می‌خوای روی پروژه‌ای با هم کار کنیم، Issue بساز یا Pull Request بده. با هم بهترش می‌کنیم! 🚀
+## Collaboration
+- Have an idea or want to work together? Open an Issue or send a Pull Request. Let's make it better! 🚀
 
-<!-- فوتر موجی -->
+<!-- Footer waves -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:36BCF7&height=120&section=footer" alt="footer"/>
 </p>
