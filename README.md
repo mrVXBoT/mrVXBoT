@@ -5,7 +5,7 @@
 
 <!-- تایپ انیمیشنی معرفی -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=36BCF7&center=true&vCenter=true&width=800&lines=سلام!+خوش+اومدی+به+ریپوی+من;توسعه%E2%80%8Cدهنده+وب%2C+عاشق+Automation+%26+Open+Source;تمرکز+روی%3A+Python%2C+React%2C+Node.js%2C+Next.js%2C+Laravel%2FPHP%2C+Linux%2C+SSH%2C+Git" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=36BCF7&center=true&vCenter=true&width=800&lines=%D8%B3%D9%84%D8%A7%D9%85!+%D8%AE%D9%88%D8%B4+%D8%A7%D9%88%D9%85%D8%DF%DB%8C+%D8%A8%D9%87+%D8%B1%DB%8C%D9%BE%D9%88%DB%8C+%D9%85%D9%86;%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%DF%D9%87+%D9%88%D8%A8%2C+%D8%B9%D8%A7%D8%B4%D9%82+Automation+%26+Open+Source;%D8%AA%D9%85%D8%B1%DA%A9%D8%B2+%D8%B1%D9%88%DB%8C%3A+Python%2C+React%2C+Node.js%2C+Next.js%2C+Laravel%2FPHP%2C+Linux%2C+SSH%2C+Git" alt="Typing SVG"/>
 </p>
 
 <!-- بج‌های وضعیت -->
