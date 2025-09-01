@@ -22,6 +22,34 @@
 
 </div>
 
+## Table of Contents
+- [About Me](#about-me)
+- [Skills & Technologies](#skills--technologies)
+- [My Approach](#my-approach)
+- [What I Build](#what-i-build)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats & Activity](#github-stats--activity)
+- [Trophies](#trophies)
+- [Quick Start](#quick-start)
+- [Contact](#contact)
+- [Collaboration](#collaboration)
+
+## Tech Stack Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
 ## About Me
 - I build clean, scalable, and maintainable web products.
 - Primary stack: Python, React, HTML/CSS/JS, Node.js, Next.js, Laravel/PHP, Linux, SSH, Git.
@@ -54,6 +82,16 @@
 - Clean, well-documented APIs for easy development and maintenance.
 - Scripts and automation that reduce development and deployment time.
 
+## Featured Projects
+<p align="center">
+  <a href="https://github.com/mrVXBoT/mrVXBoT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrVXBoT&repo=mrVXBoT&theme=tokyonight" alt="mrVXBoT repo"/>
+  </a>
+  <a href="https://github.com/mrVXBoT/github-profilinator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrVXBoT&repo=github-profilinator&theme=tokyonight" alt="github-profilinator"/>
+  </a>
+</p>
+
 ## GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrVXBoT&show_icons=true&theme=tokyonight" height="165" alt="stats"/>
@@ -65,6 +103,18 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrVXBoT&theme=tokyo-night" alt="activity graph"/>
 </p>
+
+## Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrVXBoT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+</p>
+
+<!-- Contribution Snake (enable via GitHub Actions: https://github.com/Platane/snk) -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrVXBoT/mrVXBoT/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+-->
 
 ## Quick Start
 - This repo may include example code, snippets, and useful configs. Explore folders and files and open an Issue if you need more info.
