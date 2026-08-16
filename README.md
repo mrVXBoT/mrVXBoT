@@ -127,11 +127,11 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Clean Crisp Terminal Heatmap SVG Banner -->
+<!-- Section: REAL LIVE GITHUB CONTRIBUTION HEATMAP (DIRECTLY CONNECTED TO mrVXBoT COMMITS) -->
 ## 📈 $ ./contributions.sh
 
 <p align="center">
-  <img src="./contributions.svg" alt="mrVXBoT Contribution Heatmap Terminal" width="100%"/>
+  <img src="https://ghchart.rshah.org/00FF9C/mrVXBoT" alt="mrVXBoT Real Live GitHub Contribution Graph" width="100%"/>
 </p>
 
 <br/>
