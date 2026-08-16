@@ -22,7 +22,7 @@
 
 <br/>
 
-<!-- Section: Neofetch Terminal Showcase (Fixed Alignment Fenced Code) -->
+<!-- Section: Neofetch Terminal Showcase -->
 ## 🖥️ $ neofetch
 
 ```text
@@ -127,7 +127,7 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Terminal Heatmap SVG Banner -->
+<!-- Section: Clean Crisp Terminal Heatmap SVG Banner -->
 ## 📈 $ ./contributions.sh
 
 <p align="center">
@@ -138,11 +138,6 @@ Git & DevOps       █████████████████░░░�
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrVXBoT&theme=tokyo-night&bg_color=0d1117&color=00d8ff&line=7f00ff&point=00ff9c&area=true&hide_border=false" alt="Activity Graph" width="100%"/>
-</p>
-
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrVXBoT/mrVXBoT/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
 </p>
 
 <br/>
@@ -167,8 +162,7 @@ Git & DevOps       █████████████████░░░�
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/VX_00i" target="_blank">
-    <img src="https://instagram.com/VX_00i" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@VX__00i-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-@VX__00i-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mrvxbot@gmail.com" target="_blank">
