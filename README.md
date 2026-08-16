@@ -22,36 +22,25 @@
 
 <br/>
 
-<!-- Terminal Showcase #1: Neofetch Profile -->
-<div align="center">
-<table width="100%" style="background-color: #0d1117; border-radius: 12px; border: 1px solid #30363d; border-collapse: collapse;">
-<tr>
-  <td style="padding: 10px 16px; background-color: #161b22; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom: 1px solid #30363d;">
-    <span style="color: #ff5f56;">🔴</span> <span style="color: #ffbd2e;">🟡</span> <span style="color: #27c93f;">🟢</span>
-    &nbsp;&nbsp;<code style="color: #8b949e; font-family: monospace;">mrvxbot@github: ~$ neofetch</code>
-  </td>
-</tr>
-<tr>
-  <td style="padding: 16px 20px; background-color: #0d1117; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; text-align: left;">
-<pre style="font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13px; line-height: 1.4; color: #58a6ff; margin: 0; background: transparent; border: none; white-space: pre;"><span style="color: #00D8FF;">mrvxbot@github:~$ neofetch</span>
-   <span style="color: #7F00FF;">╭─────────────╮</span>      <span style="color: #00FF9C;">mrvxbot</span><span style="color: #8b949e;">@</span><span style="color: #00D8FF;">github</span>
-   <span style="color: #7F00FF;">│             │</span>      <span style="color: #30363d;">─────────────────────────────────</span>
-   <span style="color: #7F00FF;">│   G I T     │</span>      <span style="color: #8b949e;">Name:       </span> <span style="color: #ffffff; font-weight: bold;">Amir</span>
-   <span style="color: #7F00FF;">│   H U B     │</span>      <span style="color: #8b949e;">Role:       </span> <span style="color: #00D8FF;">Full-Stack Developer · Builder</span>
-   <span style="color: #7F00FF;">│             │</span>      <span style="color: #8b949e;">Stars:      </span> <span style="color: #00FF9C;">7</span>
-   <span style="color: #7F00FF;">╰─────────────╯</span>      <span style="color: #8b949e;">Repos:      </span> <span style="color: #00FF9C;">13</span>
-   <span style="color: #7F00FF;">╭─────────────╮</span>      <span style="color: #8b949e;">Followers:  </span> <span style="color: #00FF9C;">3</span>
-   <span style="color: #7F00FF;">│    bot_     │</span>      <span style="color: #8b949e;">Top Lang:   </span> <span style="color: #38EF7D;">Python</span>
-   <span style="color: #7F00FF;">╰─────────────╯</span>      <span style="color: #8b949e;">OS:         </span> <span style="color: #00D8FF;">Linux (Debian/Ubuntu)</span>
-                        <span style="color: #8b949e;">Shell:      </span> <span style="color: #E2E8F0;">bash 5.2.15</span>
-                        <span style="color: #8b949e;">Focus:      </span> <span style="color: #00D8FF;">Automation, Web Apps & CLI Tools</span>
-                        <span style="color: #8b949e;">Note:       </span> <span style="color: #FF007F;">❌ No C++ / No Java</span>
-                        <span style="color: #8b949e;">Uptime:     </span> <span style="color: #00FF9C;">always building...</span>
-<span style="color: #00D8FF;">mrvxbot@github:~$</span></pre>
-  </td>
-</tr>
-</table>
-</div>
+<!-- Section: Neofetch Terminal Showcase (Fixed Alignment Fenced Code) -->
+## 🖥️ $ neofetch
+
+```text
+mrvxbot@github:~$ neofetch
+   ╭─────────────╮      mrvxbot@github
+   │             │      ─────────────────────────────────
+   │   G I T     │      Name:       Amir
+   │   H U B     │      Role:       Full-Stack Developer · Builder
+   │             │      Stars:      7
+   ╰─────────────╯      Repos:      13
+   ╭─────────────╮      Followers:  3
+   │    bot_     │      Top Lang:   Python
+   ╰─────────────╯      OS:         Linux (Debian/Ubuntu)
+                        Shell:      bash 5.2.15
+                        Focus:      Automation, Web Apps & CLI Tools
+                        Note:       ❌ No C++ / No Java
+                        Uptime:     always building...
+```
 
 <br/>
 
@@ -128,7 +117,7 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Analytics & Metrics Dashboard (Zero-Rate-Limit) -->
+<!-- Section: Analytics & Metrics Dashboard -->
 ## 📊 $ ./stats.sh
 
 <p align="center">
@@ -138,7 +127,7 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Terminal Heatmap Card SVG -->
+<!-- Section: Terminal Heatmap SVG Banner -->
 ## 📈 $ ./contributions.sh
 
 <p align="center">
@@ -178,7 +167,8 @@ Git & DevOps       █████████████████░░░�
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/VX_00i" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@VX__00i-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://instagram.com/VX_00i" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@VX__00i-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mrvxbot@gmail.com" target="_blank">
