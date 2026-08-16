@@ -24,42 +24,37 @@
 
 <!-- Terminal Showcase #1: Neofetch Profile -->
 <div align="center">
-<table width="100%" style="background-color: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
+<table width="100%" style="background-color: #0d1117; border-radius: 12px; border: 1px solid #30363d; border-collapse: collapse;">
 <tr>
-<td style="padding: 12px 18px; background-color: #161b22; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom: 1px solid #30363d;">
-  <span style="color: #ff5f56;">🔴</span> <span style="color: #ffbd2e;">🟡</span> <span style="color: #27c93f;">🟢</span>
-  &nbsp;&nbsp;&nbsp;<code style="color: #8b949e; font-family: monospace;">mrvxbot@github: ~$ neofetch</code>
-</td>
+  <td style="padding: 10px 16px; background-color: #161b22; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom: 1px solid #30363d;">
+    <span style="color: #ff5f56;">🔴</span> <span style="color: #ffbd2e;">🟡</span> <span style="color: #27c93f;">🟢</span>
+    &nbsp;&nbsp;<code style="color: #8b949e; font-family: monospace;">mrvxbot@github: ~$ neofetch</code>
+  </td>
 </tr>
 <tr>
-<td style="padding: 20px; font-family: 'Fira Code', monospace; background-color: #0d1117; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px;">
-
-```terminal
-mrvxbot@github:~$ neofetch
-   ╭─────────────╮      mrvxbot@github
-   │             │      ─────────────────────────────────
-   │   G I T     │      Name:       Amir
-   │   H U B     │      Role:       Full-Stack Developer · Builder
-   │             │      Stars:      7
-   ╰─────────────╯      Repos:      13
-   ╭─────────────╮      Followers:  3
-   │    bot_     │      Top Lang:   Python
-   ╰─────────────╯      OS:         Linux (Debian/Ubuntu)
-                        Shell:      bash 5.2.15
-                        Focus:      Automation, Web Apps & CLI Tools
-                        Note:       ❌ No C++ / No Java
-                        Uptime:     always building...
-mrvxbot@github:~$
-```
-
-</td>
+  <td style="padding: 16px 20px; background-color: #0d1117; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; text-align: left;">
+<pre style="font-family: 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13px; line-height: 1.4; color: #58a6ff; margin: 0; background: transparent; border: none; white-space: pre;"><span style="color: #00D8FF;">mrvxbot@github:~$ neofetch</span>
+   <span style="color: #7F00FF;">╭─────────────╮</span>      <span style="color: #00FF9C;">mrvxbot</span><span style="color: #8b949e;">@</span><span style="color: #00D8FF;">github</span>
+   <span style="color: #7F00FF;">│             │</span>      <span style="color: #30363d;">─────────────────────────────────</span>
+   <span style="color: #7F00FF;">│   G I T     │</span>      <span style="color: #8b949e;">Name:       </span> <span style="color: #ffffff; font-weight: bold;">Amir</span>
+   <span style="color: #7F00FF;">│   H U B     │</span>      <span style="color: #8b949e;">Role:       </span> <span style="color: #00D8FF;">Full-Stack Developer · Builder</span>
+   <span style="color: #7F00FF;">│             │</span>      <span style="color: #8b949e;">Stars:      </span> <span style="color: #00FF9C;">7</span>
+   <span style="color: #7F00FF;">╰─────────────╯</span>      <span style="color: #8b949e;">Repos:      </span> <span style="color: #00FF9C;">13</span>
+   <span style="color: #7F00FF;">╭─────────────╮</span>      <span style="color: #8b949e;">Followers:  </span> <span style="color: #00FF9C;">3</span>
+   <span style="color: #7F00FF;">│    bot_     │</span>      <span style="color: #8b949e;">Top Lang:   </span> <span style="color: #38EF7D;">Python</span>
+   <span style="color: #7F00FF;">╰─────────────╯</span>      <span style="color: #8b949e;">OS:         </span> <span style="color: #00D8FF;">Linux (Debian/Ubuntu)</span>
+                        <span style="color: #8b949e;">Shell:      </span> <span style="color: #E2E8F0;">bash 5.2.15</span>
+                        <span style="color: #8b949e;">Focus:      </span> <span style="color: #00D8FF;">Automation, Web Apps & CLI Tools</span>
+                        <span style="color: #8b949e;">Note:       </span> <span style="color: #FF007F;">❌ No C++ / No Java</span>
+                        <span style="color: #8b949e;">Uptime:     </span> <span style="color: #00FF9C;">always building...</span>
+<span style="color: #00D8FF;">mrvxbot@github:~$</span></pre>
+  </td>
 </tr>
 </table>
 </div>
 
 <br/>
 
-<!-- Section: Who Am I -->
 ## ⚡ $ whoami
 
 - 🔭 **Current Focus:** Building high-performance full-stack web applications & automation tools.
@@ -84,7 +79,6 @@ mrvxbot@github:~$
 
 <br/>
 
-<!-- Section: Skill Proficiency Matrix -->
 ## 📊 $ cat skill_proficiency.matrix
 
 ```text
@@ -98,7 +92,6 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Tech Stack Icons -->
 ## 🛠️ $ ls -la skills/
 
 <p align="center">
@@ -122,42 +115,37 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Featured Repositories -->
 ## 🚀 $ cat featured_projects.md
 
 <p align="center">
   <a href="https://github.com/mrVXBoT/mrVXBoT">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=mrVXBoT&repo=mrVXBoT&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8&icon_color=7F00FF" alt="mrVXBoT repo" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrVXBoT&theme=tokyonight" alt="mrVXBoT Profile Details" width="49%"/>
   </a>
   <a href="https://github.com/mrVXBoT/github-profilinator">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=mrVXBoT&repo=github-profilinator&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8&icon_color=7F00FF" alt="github-profilinator" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrVXBoT&theme=tokyonight" alt="mrVXBoT Stats Card" width="49%"/>
   </a>
 </p>
 
 <br/>
 
-<!-- Section: Analytics & Metrics Dashboard -->
+<!-- Section: Analytics & Metrics Dashboard (Zero-Rate-Limit) -->
 ## 📊 $ ./stats.sh
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mrVXBoT&show_icons=true&theme=tokyonight&border_color=7F00FF&bg_color=0D1117&title_color=00D8FF&icon_color=00FF9C&text_color=94A3B8" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mrVXBoT&layout=compact&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8" height="175" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrVXBoT&theme=tokyonight" height="175" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrVXBoT&theme=tokyonight" height="175" alt="Most Commit Language"/>
 </p>
 
 <br/>
 
-<!-- Section: Profile Summary Cards -->
-## 🏆 $ ./achievements.sh
+<!-- Section: Terminal Heatmap Card SVG -->
+## 📈 $ ./contributions.sh
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrVXBoT&theme=tokyonight" height="190" alt="Profile Details Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrVXBoT&theme=tokyonight" height="190" alt="Stats Summary Card"/>
+  <img src="./contributions.svg" alt="mrVXBoT Contribution Heatmap Terminal" width="100%"/>
 </p>
 
 <br/>
-
-<!-- Section: Activity Graph & Contribution Grid -->
-## 📈 $ ./contributions.sh
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrVXBoT&theme=tokyo-night&bg_color=0d1117&color=00d8ff&line=7f00ff&point=00ff9c&area=true&hide_border=false" alt="Activity Graph" width="100%"/>
@@ -170,7 +158,6 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Daily Quote Card -->
 ## 💬 $ fortune | cowsay
 
 <p align="center">
@@ -179,7 +166,6 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Section: Contact & Social Connect -->
 ## 🤝 $ connect --now
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
@@ -202,7 +188,6 @@ Git & DevOps       █████████████████░░░�
 
 <br/>
 
-<!-- Footer & Navigation -->
 <p align="center">
   <a href="#top">
     <img src="https://img.shields.io/badge/Back_To_Top-⬆️-00D8FF?style=for-the-badge" alt="Back to top"/>
