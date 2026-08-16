@@ -127,10 +127,10 @@ Git & DevOps       █████████████████░░░�
 
 <p align="center">
   <a href="https://github.com/mrVXBoT/mrVXBoT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrVXBoT&repo=mrVXBoT&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8&icon_color=7F00FF" alt="mrVXBoT repo" width="49%"/>
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=mrVXBoT&repo=mrVXBoT&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8&icon_color=7F00FF" alt="mrVXBoT repo" width="49%"/>
   </a>
   <a href="https://github.com/mrVXBoT/github-profilinator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrVXBoT&repo=github-profilinator&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8&icon_color=7F00FF" alt="github-profilinator" width="49%"/>
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=mrVXBoT&repo=github-profilinator&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8&icon_color=7F00FF" alt="github-profilinator" width="49%"/>
   </a>
 </p>
 
@@ -140,12 +140,18 @@ Git & DevOps       █████████████████░░░�
 ## 📊 $ ./stats.sh
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrVXBoT&show_icons=true&theme=tokyonight&border_color=7F00FF&bg_color=0D1117&title_color=00D8FF&icon_color=00FF9C&text_color=94A3B8" height="175" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=mrVXBoT&theme=tokyonight&border=7F00FF&background=0D1117&ring=00D8FF&fire=00FF9C&currStreakLabel=00D8FF" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mrVXBoT&show_icons=true&theme=tokyonight&border_color=7F00FF&bg_color=0D1117&title_color=00D8FF&icon_color=00FF9C&text_color=94A3B8" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mrVXBoT&layout=compact&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8" height="175" alt="Top Languages"/>
 </p>
 
+<br/>
+
+<!-- Section: Profile Summary Cards -->
+## 🏆 $ ./achievements.sh
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrVXBoT&layout=compact&theme=tokyonight&border_color=00D8FF&bg_color=0D1117&title_color=00D8FF&text_color=94A3B8" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrVXBoT&theme=tokyonight" height="190" alt="Profile Details Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrVXBoT&theme=tokyonight" height="190" alt="Stats Summary Card"/>
 </p>
 
 <br/>
@@ -160,11 +166,6 @@ Git & DevOps       █████████████████░░░�
 <!-- Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrVXBoT/mrVXBoT/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%"/>
-</p>
-
-<!-- GitHub Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrVXBoT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 <br/>
